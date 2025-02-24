@@ -2,10 +2,9 @@
 The repo contains all scripts and resulting data of the research case <br>
 Similarity and Homogeneity of Climate Change in Local Destinations: A globally reproducible approach from Slovakia
 
-cite as <br>
-cite beck and peel <br>
 
-01 Download Beck KG and run subset geotiff national level <br>
+##Create Köppen-Geiger climate classification at country level
+01 Download the original Becks et al. (2023) TIFF maps from <a href = "https://www.gloh2o.org/koppen/">
 prereqs national boundaries <br>
 
 02 DMO intersections from national subsets <br>
@@ -14,5 +13,6 @@ prereqs national boundaries <br>
 05 link to power bi dash + template <br>
 06 link to online map <br>
 
-
+cite as <br>
+cite beck and peel <br>
 
