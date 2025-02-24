@@ -4,7 +4,7 @@ Similarity and Homogeneity of Climate Change in Local Destinations: A globally r
 
 
 #01 Create country level Köppen-Geiger climate classification subsets
-01.1 Download the original Becks et al. (2023) TIFF maps from <a href = "https://www.gloh2o.org/koppen/">gloh20</a> and unzip the files into folder named (koppen_geiger_tif)
+01.1 Download the original Becks et al. (2023) TIFF maps from <a href = "https://www.gloh2o.org/koppen/">gloh20</a> and unzip the files into folder named (koppen_geiger_tif) <br>
 01.2 Run the 01_subset_geotiff_country_level
 
 02 DMO intersections from national subsets <br>
