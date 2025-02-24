@@ -10,7 +10,12 @@ Similarity and Homogeneity of Climate Change in Local Destinations: A globally r
 - Adjust vector_df (either use own PostGIS boundary or use osmnx  
 - Update the name of target folders, where the country subsets should be saved.
 
-02 DMO intersections from national subsets <br>
+### 02 Create subsets of DMO intersections from national subsets <br>
+**1.** Run Subset Koppen-Geigen and SK DMOs intersection.ipynb
+- Adjust the directory pathways
+- Insert your DB credentials
+- If you have you destinations boundary in Postgis, adjust kg_subset_dmos.sql
+
 03 computing weights and Change <br>
 04 analysing entropy and variance robust regerssion <br>
 05 link to power bi dash + template <br>
