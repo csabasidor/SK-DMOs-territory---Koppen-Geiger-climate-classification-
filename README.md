@@ -22,7 +22,7 @@ For some convenience the subset of Köppen-Geiger maps for Slovakia may be found
 - CELL 3 -> If you have your destinations boundary in Postgis, adjust kg_subset_dmos.sql and then run the loop
 
 ### 03 Analyze main climate classes' change, Entropy and Variance  <br>
-**1.** Open notebook [03 KG clusters main climate class.ipynb](/.Subset Koppen-Geigen and SK DMOs intersection.ipynb)
+**1.** Open notebook [/03 KG clusters main climate class.ipynb](./03 KG clusters main climate class.ipynb) <br>
 - Cell 1 -> Insert your DB credentials and load data for all DMOs and periods as single df
 - Cell 2 -> Main climates territorial weight and change over periods
 - Cell 3 -> Clusters by main climate over periods
