@@ -9,7 +9,7 @@ For some convenience the subset of Köppen-Geiger maps for Slovakia may be found
 
 ### 01 Create country level Köppen-Geiger climate classification subsets<br>
 **1.** Download the original Becks et al. (2023) TIFF maps from <a href = "https://www.gloh2o.org/koppen/">gloh20</a> and unzip the files into folder named (koppen_geiger_tif) <br>
-**2.** Open notebook 01_subset_geotiff_country_level.ipynb in the created folder<be>
+**2.** Open notebook [01_subset_geotiff_country_level.ipynb] in the created folder<be>
 - In cell 1 -> Update the name for "directory", if you used other than 'koppen_geiger_tif'
 - In cell 2 -> Insert your DB credentials
 - In cell 2 -> Adjust vector_df (either use own PostGIS boundary or use osmnx  
