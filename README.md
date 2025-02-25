@@ -1,6 +1,7 @@
 # SK DMOs territory - Köppen-Geiger climate classification
-The repo contains all scripts and resulting data of the research case <br>
-Similarity and Homogeneity of Climate Change in Local Destinations: A globally reproducible approach from Slovakia
+The repo contains all scripts and resulting data of the research case (under review): <br>
+Sidor et al. (2025) Similarity and Homogeneity of Climate Change in Local Destinations: A globally reproducible approach from Slovakia <br>
+
 
 ### Note<br>
 All charts, results may be previewed and replicated via the following notebooks. <br>
