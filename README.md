@@ -4,8 +4,8 @@ Similarity and Homogeneity of Climate Change in Local Destinations: A globally r
 
 ### Note<br>
 All charts, results may be replicated via the following notebooks. <br>
-Results of SA may be found in folder data_out <br>
-For some convenience the subset of Köppen-Geiger maps for Slovakia may be found in folder 
+Results of SA may be found in folder [data_out](./data_out/) <br>
+For some convenience the subset of Köppen-Geiger maps for Slovakia may be found in folder [kg_sk_subsets](./kg_sk_subsets) <br>
 
 ### 01 Create country level Köppen-Geiger climate classification subsets<br>
 **1.** Download the original Becks et al. (2023) TIFF maps from <a href = "https://www.gloh2o.org/koppen/">gloh20</a> and unzip the files into folder named (koppen_geiger_tif) <br>
