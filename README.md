@@ -17,7 +17,7 @@ Similarity and Homogeneity of Climate Change in Local Destinations: A globally r
 - CELL 2 -> Adjust the directory pathways
 - CELL 3 -> If you have your destinations boundary in Postgis, adjust kg_subset_dmos.sql and then run the loop
 
-### 03 Analyze climate classes change, Entropy and Variance  <br>
+### 03 Analyze main climate classes' change, Entropy and Variance  <br>
 04 analysing entropy and variance robust regerssion <br>
 05 link to power bi dash + template <br>
 06 link to online map <br>
