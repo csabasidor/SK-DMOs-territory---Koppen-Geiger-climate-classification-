@@ -16,7 +16,7 @@ For some convenience the subset of Köppen-Geiger maps for Slovakia may be found
 - In cell 2 -> Update the name of target folders, where the country subsets should be saved.
 
 ### 02 Create subsets of DMO intersections from national subsets <br>
-**1.** Open notebook [Subset Koppen-Geigen and SK DMOs intersection.ipynb](./Subset Koppen-Geigen and SK DMOs intersection.ipynb)
+**1.** Open notebook [02 Subset Koppen-Geigen and SK DMOs intersection.ipynb](./02 Subset Koppen-Geigen and SK DMOs intersection.ipynb)
 - CELL 2 -> Insert your DB credentials
 - CELL 2 -> Adjust the directory pathways
 - CELL 3 -> If you have your destinations boundary in Postgis, adjust kg_subset_dmos.sql and then run the loop
