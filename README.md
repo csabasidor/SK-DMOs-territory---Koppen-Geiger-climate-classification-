@@ -14,9 +14,9 @@ Similarity and Homogeneity of Climate Change in Local Destinations: A globally r
 **1.** Run Subset Koppen-Geigen and SK DMOs intersection.ipynb
 - Adjust the directory pathways
 - Insert your DB credentials
-- If you have you destinations boundary in Postgis, adjust kg_subset_dmos.sql
+- If you have your destinations boundary in Postgis, adjust kg_subset_dmos.sql and then run the loop
 
-03 computing weights and Change <br>
+### 03 Analyze climate classes change, Entropy and Variance  <br>
 04 analysing entropy and variance robust regerssion <br>
 05 link to power bi dash + template <br>
 06 link to online map <br>
