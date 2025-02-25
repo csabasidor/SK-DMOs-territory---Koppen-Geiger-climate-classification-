@@ -3,7 +3,7 @@ The repo contains all scripts and resulting data of the research case <br>
 Similarity and Homogeneity of Climate Change in Local Destinations: A globally reproducible approach from Slovakia
 
 ### Note<br>
-All charts, results may be replicated via the following notebooks. <br>
+All charts, results may be previewed and replicated via the following notebooks. <br>
 Results of SA may be found in folder [data_out](./data_out/) <br>
 For some convenience the subset of Köppen-Geiger maps for Slovakia may be found in folder [kg_sk_subsets](./kg_sk_subsets) <br>
 
