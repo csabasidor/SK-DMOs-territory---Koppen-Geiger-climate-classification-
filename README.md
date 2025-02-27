@@ -39,10 +39,7 @@ For some convenience the subset of Köppen-Geiger maps for Slovakia may be found
 - Cell 13 -> Correlation Analysis of territory size and Homogeneity Etropy and Fluctuation
 - Cell 14 -> Testing prerequisites for Regression, and adopting Huber Regression
 
-04 analysing entropy and variance robust regerssion <br>
-05 link to power bi dash + template <br>
-06 link to online map <br>
+##### Simple dashboard may be found <a href = "https://cases.idoaba.eu/sk_dmos_kgc/">here</a>
 
-cite as <br>
-cite beck and peel <br>
+Ple
 
