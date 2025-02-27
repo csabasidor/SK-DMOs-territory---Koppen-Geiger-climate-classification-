@@ -41,10 +41,10 @@ For some convenience the subset of Köppen-Geiger maps for Slovakia may be found
 
 ##### Simple dashboard may be found <a href = "https://cases.idoaba.eu/sk_dmos_kgc/">here</a>
 
-Please if you're using any of this, also cite the origins of the data used in this case: <br>
-Beck, H., E., McVicar, T. R., Vergopolan, N., Berg, A., Lutsko, N. J., Dufour, A., Zeng, Z., & others. (2023). <br>
-High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections. Scientific Data, 10 (1), 724. <br>
-https://doi.org/10.1038/s41597-023-02458-5 
+#### Please if you're using any of this, also cite the origins of the data used in this case: <br>
+##### Beck, H., E., McVicar, T. R., Vergopolan, N., Berg, A., Lutsko, N. J., Dufour, A., Zeng, Z., & others. (2023). <br>
+##### High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections. Scientific Data, 10 (1), 724. <br>
+##### https://doi.org/10.1038/s41597-023-02458-5 
 
 
 
